@@ -57,4 +57,5 @@ Please download the dataset using the links below:
 
 ## TODO
 - Train
+- Evaluation
 - Gradio Interface
