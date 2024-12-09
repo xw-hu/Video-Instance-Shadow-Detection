@@ -1,10 +1,20 @@
-# Video Instance Shadow Detection Under the Sun and Sky (IEEE TIP 2024)
+# Video Instance Shadow Detection Under the Sun and Sky
 
-by [Zhenghao Xing*](https://harryhsing.github.io/), [Tianyu Wang*](https://stevewongv.github.io/), [Xiaowei Hu](https://xw-hu.github.io/), Haoran Wu, [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), and [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng)   
+**IEEE Transactions on Image Processing (TIP), 2024**
 
-https://ieeexplore.ieee.org/document/10704578
+## Authors
+- [Zhenghao Xing*](https://harryhsing.github.io/)
+- [Tianyu Wang*](https://stevewongv.github.io/)
+- [Xiaowei Hu](https://xw-hu.github.io/)
+- Haoran Wu
+- [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/)
+- [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng)
 
-https://arxiv.org/abs/2211.12827
+---
+
+### Paper Links
+- **IEEE Xplore**: [Video Instance Shadow Detection Under the Sun and Sky](https://ieeexplore.ieee.org/document/10704578)
+- **arXiv**: [2211.12827](https://arxiv.org/abs/2211.12827)
 
 ## Installation
 
