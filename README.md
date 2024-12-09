@@ -14,6 +14,8 @@
 - [IEEE Xplore](https://ieeexplore.ieee.org/document/10704578)
 - [arXiv](https://arxiv.org/abs/2211.12827)
 
+![-c](Teaser.pdf)
+
 ## Installation
 ```bash
 $ git clone https://github.com/HarryHsing/Video-Instance-Shadow-Detection.git
