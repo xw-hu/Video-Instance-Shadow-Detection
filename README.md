@@ -2,7 +2,7 @@
 
 **IEEE Transactions on Image Processing (TIP), 2024**
 
-## Authors
+### Authors
 - [Zhenghao Xing*](https://harryhsing.github.io/)
 - [Tianyu Wang*](https://stevewongv.github.io/)
 - [Xiaowei Hu](https://xw-hu.github.io/)
