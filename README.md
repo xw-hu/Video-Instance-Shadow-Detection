@@ -6,7 +6,7 @@
 
 [[`IEEE Xplore`](https://ieeexplore.ieee.org/document/10704578)] [[`arXiv`](https://arxiv.org/abs/2211.12827)] **IEEE Transactions on Image Processing (TIP), 2024**
 
-![-c](teaser.jpg)
+![-c](assets/teaser.jpg)
 
 ## Installation
 ```bash
