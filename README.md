@@ -27,6 +27,15 @@ $ pip install -e .
 ```
 
 ## Demo
+### Download Pre-trained Weights
+```bash
+$ test
+```
+
+### Run the Demo
+```bash
+$ python vishadow_demo.py --input-name ./assets/videos/skateboard.mp4 --output-name demo_result3
+```
 
 ## SOBA-VID Dataset
 Please download the dataset using the links below:
