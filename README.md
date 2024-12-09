@@ -11,8 +11,8 @@
 - [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng)
 
 ### Paper Links
-- **IEEE Xplore**: [Video Instance Shadow Detection Under the Sun and Sky](https://ieeexplore.ieee.org/document/10704578)
-- **arXiv**: [2211.12827](https://arxiv.org/abs/2211.12827)
+- [IEEE Xplore](https://ieeexplore.ieee.org/document/10704578)
+- [arXiv](https://arxiv.org/abs/2211.12827)
 
 ## Installation
 
