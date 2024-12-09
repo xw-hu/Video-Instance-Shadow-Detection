@@ -1,7 +1,7 @@
 # Video Instance Shadow Detection Under the Sun and Sky
 
 
-[Zhenghao Xing](https://harryhsing.github.io)\*, [Tianyu Wang](https://stevewongv.github.io)\*, [Xiaowei Hu](https://xw-hu.github.io), Haoran Wu, [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng)  
+[Zhenghao Xing](https://harryhsing.github.io)\*, [Tianyu Wang](https://stevewongv.github.io)\*, [Xiaowei Hu](https://xw-hu.github.io), Haoran Wu, [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng) (* Joint first authors)
 
 
 [[`IEEE Xplore`](https://ieeexplore.ieee.org/document/10704578)] [[`arXiv`](https://arxiv.org/abs/2211.12827)] **IEEE Transactions on Image Processing (TIP), 2024**
@@ -53,3 +53,8 @@ $ python vishadow_demo.py --input-name ./assets/videos/skateboard.mp4 --output-n
 - Train
 - Evaluation
 - Gradio Interface
+
+## Acknowledgement
+This repo is largely based on [SSIS](https://github.com/stevewongv/SSIS) and [InternGPT](https://github.com/OpenGVLab/InternGPT/tree/main).
+Thanks for their excellent works.
+
