@@ -1,0 +1,6 @@
+# ninja log v5
+6	2019	1705069727204696968	/research/d1/gds/zhxing/projects/InstructionVISD/visd/build/temp.linux-x86_64-3.9/research/d1/gds/zhxing/projects/InstructionVISD/visd/adet/layers/csrc/cuda_version.o	793eed1180091ca
+1	29799	1705069754943547568	/research/d1/gds/zhxing/projects/InstructionVISD/visd/build/temp.linux-x86_64-3.9/research/d1/gds/zhxing/projects/InstructionVISD/visd/adet/layers/csrc/BezierAlign/BezierAlign_cpu.o	e1449a250053ca60
+2	54770	1705069779945412909	/research/d1/gds/zhxing/projects/InstructionVISD/visd/build/temp.linux-x86_64-3.9/research/d1/gds/zhxing/projects/InstructionVISD/visd/adet/layers/csrc/DefROIAlign/DefROIAlign_cuda.o	c82aa7746249936e
+8	56497	1705069781669403623	/research/d1/gds/zhxing/projects/InstructionVISD/visd/build/temp.linux-x86_64-3.9/research/d1/gds/zhxing/projects/InstructionVISD/visd/adet/layers/csrc/vision.o	8eb4373ca0d99ecd
+1	56758	1705069781936402185	/research/d1/gds/zhxing/projects/InstructionVISD/visd/build/temp.linux-x86_64-3.9/research/d1/gds/zhxing/projects/InstructionVISD/visd/adet/layers/csrc/BezierAlign/BezierAlign_cuda.o	e4cb88bfa48fe029
