@@ -1,4 +1,4 @@
-model_zoo/**/*.pth
+model_zoo/*.pth
 results/
 weights/
 checkpoints/
