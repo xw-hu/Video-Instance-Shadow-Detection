@@ -29,12 +29,12 @@ $ pip install -e .
 ## Demo
 ### Download Pre-trained Weights
 ```bash
-$ test
+$ wget -P ./model_zoo/SSIS_v5_36_DataVer2_MerLoss_CycleLoss_VidHead_YtbDavis_SSIS_v4_4.11/ https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/weights/model_final.pth
 ```
 
 ### Run the Demo
 ```bash
-$ python vishadow_demo.py --input-name ./assets/videos/skateboard.mp4 --output-name demo_result3
+$ python vishadow_demo.py --input-name ./assets/videos/skateboard.mp4 --output-name demo_result
 ```
 
 ## SOBA-VID Dataset
