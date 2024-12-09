@@ -24,7 +24,7 @@ $ pip install -e .
 ## Demo
 ### Download Pre-trained Weights
 ```bash
-$ wget -P ./model_zoo/SSIS_v5_36_DataVer2_MerLoss_CycleLoss_VidHead_YtbDavis_SSIS_v4_4.11/ https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/weights/model_final.pth
+$ wget -P ./model_zoo/ https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/weights/model_final.pth
 ```
 
 ### Run the Demo
