@@ -18,8 +18,6 @@
 
 ## Demo
 
-We will release our code/demo soon.
-
 ## SOBA-VID Dataset
 Please download the dataset using the links below:
 - [Frames](https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/dataset/frames.zip)
@@ -37,3 +35,7 @@ Please download the dataset using the links below:
   publisher={IEEE}
 }
 ```
+
+## TODO
+Train
+Gradio Interface
