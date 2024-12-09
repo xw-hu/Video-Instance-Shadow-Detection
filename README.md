@@ -16,6 +16,7 @@
 
 ## Installation
 ```bash
+$ git clone https://github.com/HarryHsing/Video-Instance-Shadow-Detection.git
 $ cd Video-Instance-Shadow-Detection
 $ conda create -n VISD python=3.8
 $ conda activate VISD
