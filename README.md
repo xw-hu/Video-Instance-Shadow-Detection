@@ -38,7 +38,7 @@ $ python vishadow_demo.py --input-name ./assets/videos/skateboard.mp4 --output-n
 ```
 
 ## SOBA-VID Dataset
-Please download the dataset using the links below:
+**Please download the dataset using the links below:**
 - [Frames](https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/dataset/frames.zip)
 - [Annotations](https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/dataset/annotations.zip)
 
