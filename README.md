@@ -1,5 +1,6 @@
 # Video Instance Shadow Detection Under the Sun and Sky (IEEE TIP 2024)
 
+by [Zhenghao Xing*](https://harryhsing.github.io/), [Tianyu Wang*](https://stevewongv.github.io/), [Xiaowei Hu](https://xw-hu.github.io/), Haoran Wu, [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), and [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng)   
 
 ## Installation
 
