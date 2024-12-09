@@ -2,10 +2,9 @@
 
 **IEEE Transactions on Image Processing (TIP), 2024**
 
-### Authors
 [Zhenghao Xing](https://harryhsing.github.io)\*, [Tianyu Wang](https://stevewongv.github.io)\*, [Xiaowei Hu](https://xw-hu.github.io), Haoran Wu, [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng)  
 
-### Paper Links
+
 [[`IEEE Xplore`](https://ieeexplore.ieee.org/document/10704578)] [[`arXiv`](https://arxiv.org/abs/2211.12827)]
 
 ![-c](teaser.jpg)
