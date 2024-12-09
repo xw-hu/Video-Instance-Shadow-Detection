@@ -15,6 +15,15 @@
 - [arXiv](https://arxiv.org/abs/2211.12827)
 
 ## Installation
+```bash
+$ cd Video-Instance-Shadow-Detection
+$ conda create -n VISD python=3.8
+$ conda activate VISD
+$ conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cuda=11.7 -c pytorch -c nvidia
+$ pip install -r requirements.txt
+$ cd visd
+$ pip install -e .
+```
 
 ## Demo
 
