@@ -53,3 +53,8 @@ $ python vishadow_demo.py --input-name ./assets/videos/skateboard.mp4 --output-n
 - Train
 - Evaluation
 - Gradio Interface
+
+## Acknowledgement
+This repo is largely based on [SSIS]([https://github.com/facebookresearch/Mask2Former](https://github.com/stevewongv/SSIS)) and [InternGPT]([https://github.com/zhang-tao-whu/DVIS](https://github.com/OpenGVLab/InternGPT/tree/main)).
+Thanks for their excellent works.
+
