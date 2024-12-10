@@ -35,6 +35,13 @@ $ wget -P ./model_zoo/ https://github.com/HarryHsing/Video-Instance-Shadow-Detec
 $ python vishadow_demo.py --input-name ./assets/videos/skateboard.mp4 --output-name demo_result
 ```
 
+This command processes the specified input video (`skateboard.mp4`) and produces:
+
+- **Shadow-object association masks** for each frame.
+- **Painted frames** and a reconstructed output video.
+
+All results will be saved with the prefix `demo_result` for easy access.
+
 ## SOBA-VID Dataset
 **Please download the dataset using the links below:**
 - [Frames](https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/dataset/frames.zip)
