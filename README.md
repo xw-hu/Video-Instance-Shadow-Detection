@@ -8,6 +8,8 @@
 
 [[`IEEE Xplore`](https://ieeexplore.ieee.org/document/10704578)] [[`arXiv`](https://arxiv.org/abs/2211.12827)]
 
+[![YouTube](assets/teaser.jpg)](https://www.youtube.com/watch?v=uloJr5QlxR8)
+
 </div>
 
 ![-c](assets/teaser.jpg)
