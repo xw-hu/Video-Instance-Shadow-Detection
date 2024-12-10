@@ -61,8 +61,8 @@ All results will be saved with the prefix `demo_result` for easy access.
 ```
 
 ## TODO
-- Train
-- Evaluation
+- Training Code
+- Evaluation Code
 - Gradio Interface
 
 ## Acknowledgement
