@@ -12,8 +12,6 @@
 
 </div>
 
-![-c](assets/teaser.jpg)
-
 ## Installation
 ```bash
 $ git clone https://github.com/HarryHsing/Video-Instance-Shadow-Detection.git
