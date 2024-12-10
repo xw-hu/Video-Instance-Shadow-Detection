@@ -44,8 +44,8 @@ All results will be saved with the prefix `demo_result` for easy access.
 
 ## SOBA-VID Dataset
 **Please download the dataset using the links below:**
-- [Frames](https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/dataset/frames.zip)
-- [Annotations](https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/dataset/annotations.zip)
+- [Video](https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/dataset/frames.zip)
+- [Annotation](https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/dataset/annotations.zip)
 
 ## Citation
 **The following is a BibTeX reference:**
