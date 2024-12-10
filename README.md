@@ -1,12 +1,16 @@
-# Video Instance Shadow Detection Under the Sun and Sky
+<div align="center">
 
+# Video Instance Shadow Detection Under the Sun and Sky
 
 [Zhenghao Xing](https://harryhsing.github.io)\*, [Tianyu Wang](https://stevewongv.github.io)\*, [Xiaowei Hu](https://xw-hu.github.io), Haoran Wu, [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng) (* Joint first authors)
 
+**IEEE Transactions on Image Processing (TIP), 2024**
 
-[[`IEEE Xplore`](https://ieeexplore.ieee.org/document/10704578)] [[`arXiv`](https://arxiv.org/abs/2211.12827)] **IEEE Transactions on Image Processing (TIP), 2024**
+[[`IEEE Xplore`](https://ieeexplore.ieee.org/document/10704578)] [[`arXiv`](https://arxiv.org/abs/2211.12827)]
 
-![-c](assets/teaser.jpg)
+[![YouTube](assets/teaser.jpg)](https://www.youtube.com/watch?v=uloJr5QlxR8)
+
+</div>
 
 ## Installation
 ```bash
@@ -31,6 +35,13 @@ $ wget -P ./model_zoo/ https://github.com/HarryHsing/Video-Instance-Shadow-Detec
 $ python vishadow_demo.py --input-name ./assets/videos/skateboard.mp4 --output-name demo_result
 ```
 
+This command processes the specified input video (`skateboard.mp4`) and produces:
+
+- **Shadow-object association masks** for each frame.
+- **Painted frames** and a reconstructed output video.
+
+All results will be saved with the prefix `demo_result` for easy access.
+
 ## SOBA-VID Dataset
 **Please download the dataset using the links below:**
 - [Frames](https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/dataset/frames.zip)
@@ -50,8 +61,8 @@ $ python vishadow_demo.py --input-name ./assets/videos/skateboard.mp4 --output-n
 ```
 
 ## TODO
-- Train
-- Evaluation
+- Training Code
+- Evaluation Code
 - Gradio Interface
 
 ## Acknowledgement
