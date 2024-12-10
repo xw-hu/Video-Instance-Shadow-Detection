@@ -6,9 +6,9 @@
 
 **IEEE Transactions on Image Processing (TIP), 2024**
 
-[[`IEEE Xplore`](https://ieeexplore.ieee.org/document/10704578)] [[`arXiv`](https://arxiv.org/abs/2211.12827)]
+[[`IEEE Xplore`](https://ieeexplore.ieee.org/document/10704578)] [[`arXiv`](https://arxiv.org/abs/2211.12827)] [[`Video`](https://www.youtube.com/watch?v=uloJr5QlxR8)]
 
-[![YouTube](assets/teaser.jpg)](https://www.youtube.com/watch?v=uloJr5QlxR8)
+![-c](assets/teaser.jpg)
 
 </div>
 
