@@ -27,6 +27,7 @@ $ pip install -e .
 ## Demo
 ### Download Pre-trained Weights
 ```bash
+$ cd ..
 $ wget -P ./model_zoo/ https://github.com/HarryHsing/Video-Instance-Shadow-Detection/releases/download/weights/model_final.pth
 ```
 
